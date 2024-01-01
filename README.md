@@ -1,4 +1,4 @@
-# Bible_ThreeMERN\
+# Bible_ThreeMERN
 
 # The code is Private for Now 🙂
 
